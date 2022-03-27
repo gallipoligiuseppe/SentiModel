@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+Jinja2
+beautifulsoup4
+nltk
+scikit-learn
+tensorflow
+tensorflow-hub
+tensorflow-text
+datasets
+easynmt
